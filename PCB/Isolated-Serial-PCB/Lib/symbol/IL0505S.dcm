@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IL0505S
+D DC/DC Converter Isolated 5V 2W XP Power Through Hole 2W Isolated DC-DC Converter, Vin 4.5  5.5 V dc, I/O isolation 1000V dc, Vout 5V dc
+K
+F https://www.xppower.com/portals/0/pdfs/SF_IL.pdf
+$ENDCMP
+#
+#End Doc Library
